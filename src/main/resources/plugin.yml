@@ -1,0 +1,6 @@
+name: AutoOpen
+version: @version@
+main: xyz.n7mn.dev.autoopen.AutoOpen
+api-version: 1.16
+authors: [ 7mi_chan ]
+description: AutoOpen
